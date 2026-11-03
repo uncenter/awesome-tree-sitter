@@ -1,4 +1,4 @@
-# Tree(-sitter) of Knowledge
+# Awesome Tree-sitter
 
 A collection of references, tips, and resources for working with and using Tree-sitter.
 
